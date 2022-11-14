@@ -3,3 +3,4 @@
 #Date :2022/11/14 15:00
 import pandas as pd
 print(pd.DataFrame(data=None))
+print(pd.date_range(0,10))
